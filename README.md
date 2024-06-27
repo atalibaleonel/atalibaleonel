@@ -2,7 +2,7 @@
 
 <p align="center"> ► "Celebrating success is good, but it is more important to heed the lessons of failure."<a href="https://atalibaleonel.com.br/about"> Ataliba? </a> Bill Gates ◄ </p>
 
-
+_____________________________________________________________________________________________________________________________________________
 
 I began my career in sales, driven by a passion for technology. Throughout my time in various sales roles, I won awards and honed my business skills, enabling me to view opportunities from both micro and macro perspectives.
 
@@ -12,7 +12,9 @@ My curiosity about how things work has been a constant throughout my life. At th
 
 Currently, I live in Portugal. I enjoy sports, arts, classical music, and above all, exploring new life experiences. I am beginning my studies in artificial intelligence and French.
 
-Networks to connect
+________________________________________________________________________________________________________________________________________________
+
+<h1> Networks to connect </h1>
 <p align="center> 
   
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atalibaleonel/)
