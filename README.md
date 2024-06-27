@@ -1,4 +1,4 @@
-p<a href="https://atalibaleonel.com.br/analysis" target="_blank"><img src="https://media.licdn.com/dms/image/D4D16AQFjjvH5Y485Kg/profile-displaybackgroundimage-shrink_350_1400/0/1718717286065?e=1724889600&v=beta&t=quECU8s2RyHquUraL0nnPXsEUuJu-vrjCCF54cQUKZI" /></a>
+<a href="https://atalibaleonel.com.br/analysis" target="_blank"><img src="https://media.licdn.com/dms/image/D4D16AQFjjvH5Y485Kg/profile-displaybackgroundimage-shrink_350_1400/0/1718717286065?e=1724889600&v=beta&t=quECU8s2RyHquUraL0nnPXsEUuJu-vrjCCF54cQUKZI" /></a>
 
 <p align="center"> ► "Celebrating success is good, but it is more important to heed the lessons of failure."<a href="https://atalibaleonel.com.br/about">My Website</a> Bill Gates ◄ </p>
 
