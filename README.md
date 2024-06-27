@@ -17,7 +17,7 @@ ________________________________________________________________________________
 <h1> Networks to connect </h1>
 <p align="center> 
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atalibaleonel/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atalibaleonel)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/atalibaleonel)
 [![Send a message](https://img.shields.io/badge/-Enviar%20uma%20mensagem-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:ataliba@outlook.fr)
 </p>
